@@ -133,7 +133,6 @@ with torch.no_grad():
 
 print(f"\n Final Test Accuracy: {test_accuracy:.2f}%")
 
-# --- 7. Plot Confusion Matrix ---
 cm = confusion_matrix(y_test_tensor.numpy(), predictions.numpy())
 disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=[0, 1, 2, 3])
 disp.plot(cmap="Blues")
