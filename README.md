@@ -69,3 +69,18 @@ The dataset includes demographic and geographic statistics related to COVID-19 d
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 2️⃣ Run Training
+```bash
+   python3 A0_P2.py \
+  --csv data/Provisional_COVID-19_death_counts__rates__and_percent_of_total_deaths__by_jurisdiction_of_residence.csv \
+  --outdir artifacts \
+  --epochs 40 \
+  --use_qcut
+```
+
+## 🧠 Insights
+- Shallow neural networks can achieve > 85 % accuracy for structured data tasks with limited features.
+- Quantile binning helps stabilize training by reducing outliers.
+- Proper correlation analysis is crucial to select non-redundant variables.
