@@ -60,7 +60,7 @@ The dataset includes demographic and geographic statistics related to COVID-19 d
 
 **Confusion Matrix – Test Set**
 
-![Confusion Matrix](Figure_1.png)
+![Confusion Matrix](Figure.png)
 
 ---
 
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ### 2️⃣ Run Training
 ```bash
-   python3 A0_P2.py \
+   python3 covid-mlp.py \
   --csv data/Provisional_COVID-19_death_counts__rates__and_percent_of_total_deaths__by_jurisdiction_of_residence.csv \
   --outdir artifacts \
   --epochs 40 \
